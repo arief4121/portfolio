@@ -6,7 +6,7 @@ export default function Hero() {
     return (
         <>
           <Navbar/>
-          <section id="#" className="h-screen bg-cover bg-image">
+          <section id="home" className="h-screen bg-cover bg-image">
             <div className="flex items-center justify-center h-full">
                 <div className="text-center">
                     <h2 className="text-5xl lg:text-6xl font-semibold text-gray-300 tracking-wider lg:leading-relaxed">Hi.. saya Muhammad Arief</h2>
